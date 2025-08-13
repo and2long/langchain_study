@@ -1,3 +1,5 @@
 langchain-ollama
 langgraph
 langchain-tavily
+langchain-community
+beautifulsoup4
